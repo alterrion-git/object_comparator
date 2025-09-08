@@ -1,0 +1,16 @@
+2025-09-07 13:04:52,611 - INFO - === Book Comparator Experiment ===
+2025-09-07 13:04:52,611 - INFO - Positive pairs loaded: 500
+2025-09-07 13:04:52,611 - INFO - Negative pairs loaded: 500
+2025-09-07 13:04:52,611 - INFO - 
+Running classifier on 100 samples...
+2025-09-07 13:09:58,968 - INFO - 
+Results saved to: results\experiment_results.csv
+2025-09-07 13:09:58,968 - INFO - 
+=== Experiment Metrics ===
+2025-09-07 13:09:58,969 - INFO - threshold: 0.3500
+2025-09-07 13:09:58,969 - INFO - accuracy: 0.8150
+2025-09-07 13:09:58,969 - INFO - precision: 0.9091
+2025-09-07 13:09:58,969 - INFO - recall: 0.7000
+2025-09-07 13:09:58,970 - INFO - f1: 0.7910
+2025-09-07 13:09:58,970 - INFO - 
+Total execution time: 306.36 seconds (5.11 minutes)
